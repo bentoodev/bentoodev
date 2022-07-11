@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Archer</h1>
 <h3 align="center">A passionate developer from Singapore.</h3>
 
-- 🔭 I’m currently working on [HIMA High School](https://himahighschool.io)
+- 🔭 I’m currently working on [Ritsu](https://github.com/arxheryyy/ritsu)
 
 - 🌱 I’m currently learning **Javascript**
 
