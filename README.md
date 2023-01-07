@@ -1,11 +1,11 @@
-Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Archer
-==============================================================================================================================
+Hi 👋 My name is Archer
+=======================
 
-Ever since I encountered coding when I was 17 I fell in love and just kept building. When I got into Web3 I started freelancing and building scripts, websites and applications for projects. Recently I've been looking to improve on web development.
+Ever since I encountered coding when I was in the first year of college, I fell in love and just kept building. When I got into Web3 I started freelancing and building scripts, websites and applications for projects. Recently I've been trying to improve on web development and web design.
 
 * 🌍  I'm based in Singapore
 * ✉️  You can contact me at [Arxherchua@gmail.com](mailto:Arxherchua@gmail.com)
-* 🧠  I'm learning React
+* 🧠  I'm learning React & NextJS
 
 ### Skills
 
