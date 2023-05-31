@@ -1,10 +1,9 @@
-Hi 👋 My name is Archer
+Hi 👋 I'm Archer aka Iced Tea
 =======================
 
 Ever since I encountered coding when I was in the first year of college, I fell in love and just kept building. When I got into Web3 I started freelancing and building scripts, websites and applications for projects. Recently I've been trying to improve on web development and web design.
 
 * 🌍  I'm based in Singapore
-* ✉️  You can contact me at [Arxherchua@gmail.com](mailto:Arxherchua@gmail.com)
 * 🧠  I'm learning React & NextJS
 
 ### Skills
@@ -29,7 +28,7 @@ Ever since I encountered coding when I was in the first year of college, I fell 
 
 ### Socials
 
-<p align="left"> <a href="https://www.github.com/bentoodev" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a></p>
+<p align="left"> <a href="https://www.github.com/teaonrocks" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a></p>
 
 ### Badges
 
